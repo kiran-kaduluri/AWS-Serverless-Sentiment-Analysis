@@ -13,7 +13,7 @@ This project utilizes the following AWS services:
 The application is designed to be cost-effective, scalable, and easy to deploy, following a fully serverless architecture.
 
 
-## 🏗️ Architecture Overview
+## 🏗️ Architecture Overview &  📹 Final Output  
 
 #### Architecture Diagram
 
