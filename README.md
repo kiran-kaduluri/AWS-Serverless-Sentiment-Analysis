@@ -178,5 +178,6 @@ Attach the following IAM policies to the Lambda execution role:
 
 **Indana Aditya**
 [LinkedIn](https://www.linkedin.com/in/aditya-indana-899734216) • [GitHub](https://github.com/22MH1A42G1)
-
+## 📹 Final Output  
+[![Watch the video](https://github.com/22MH1A42G1/AWS-Serverless-Sentiment-Analysis/blob/main/imgs/Architecture.jpg?raw=true)](https://youtu.be/15-qhxjy140?si=Luzu1PX6CI86MQuu)
 ---
